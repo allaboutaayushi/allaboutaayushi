@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi, I’m Aayushi!
 
-<!--
-**allaboutaayushi/allaboutaayushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, scalable web applications with a focus on real-world usability and product thinking.
 
-Here are some ideas to get you started:
+Currently exploring the intersection of AI + full-stack systems, building projects that go beyond UI and actually solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+What I’m Working On:
+
+* AdAura — AI-powered personalized advertising engine
+* AI Agent systems for task automation
+* Full-stack web applications with modern architecture
+
+⸻
+
+Tech Stack
+
+Frontend
+HTML, CSS, JavaScript, React
+
+Backend
+Node.js, Express
+
+Tools & Concepts
+REST APIs, Git, system design fundamentals
+
+⸻
+
+Approach
+
+I prefer building projects that are:
+
+* Practical, not just theoretical
+* Cleanly structured and scalable
+* Designed with user experience in mind
+
+⸻
+
+Current Focus
+
+* Strengthening full-stack development
+* Building AI-integrated applications
+* Preparing for product-focused engineering roles
+
+⸻
+
+Connect
+
+* LinkedIn: www.linkedin.com/in/aayushi-pandey-b799a522a
+* Portfolio: 
+
+⸻
