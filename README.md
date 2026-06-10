@@ -1,47 +1,67 @@
-Hi, I’m Aayushi!
+# Hi, I'm Aayushi Pandey
 
-I build clean, scalable web applications with a focus on real-world usability and product thinking.
+Full-Stack Developer | AI Engineer
 
-Currently exploring the intersection of AI + full-stack systems, building projects that go beyond UI and actually solve problems.
+I'm passionate about building products that don't just live in repositories—they solve real problems, create value for users, and are engineered to scale.
 
-⸻
+I enjoy working across the stack, from crafting intuitive user experiences to developing robust backend systems, APIs, and AI-powered applications. My focus is on building technology that is practical, impactful, and designed for real-world use.
 
-Tech Stack
+---
 
-Languages & Frameworks: Java, Python, JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, REST APIs, FastAPI
+## Tech Stack
 
-Databases & Data Systems: MongoDB, SQL, ChromaDB, Qdrant
+### Programming Languages
+Java • Python • JavaScript • SQL
 
-AI/ML & LLM Engineering: LangChain, RAG, Prompt Engineering, Open AI API, Gemini API, NLP, ML, Vector Embeddings
+### Frontend Development
+React.js • HTML5 • CSS3 • Responsive Web Design
 
-Cloud Platforms & Infrastructure: Google Cloud Platform (GCP), Vertex AI, Cloud Functions, Cloud Run, AWS Bedrock, Lambda,
-Docker, Kubernetes
+### Backend Development
+Node.js • Express.js • FastAPI • REST APIs
 
-Concepts: Full-Stack Development, REST APIs, CI/CD, Git, DSA, OOP, SDLC, Agile Methodologies
+### Databases & Data Systems
+MongoDB • SQL • ChromaDB • Qdrant
 
-⸻
+### AI & Machine Learning
+LangChain • Retrieval-Augmented Generation (RAG) • Prompt Engineering • OpenAI API • Gemini API • Natural Language Processing (NLP) • Vector Embeddings
 
-Approach
+### Cloud & DevOps
+Google Cloud Platform (GCP) • Vertex AI • Cloud Functions • Cloud Run • AWS Bedrock • AWS Lambda • Docker • Kubernetes
 
-I prefer building projects that are:
+### Software Engineering
+Git • CI/CD • Data Structures & Algorithms • Object-Oriented Programming • SDLC • Agile Methodologies
 
-* Practical, not just theoretical
-* Cleanly structured and scalable
-* Designed with user experience in mind
+---
 
-⸻
+## What I Build
 
-Current Focus
+- Full-stack web applications with modern, scalable architectures
+- AI-powered products leveraging LLMs and RAG pipelines
+- Backend systems and APIs designed for reliability and performance
+- Data-driven applications that address real-world challenges
 
-* Strengthening full-stack development
-* Building AI-integrated applications
-* Preparing for product-focused engineering roles
+---
 
-⸻
+## My Approach
 
-Connect
+- Build solutions that are practical, not just theoretical
+- Focus on clean, maintainable, and scalable code
+- Prioritize user experience alongside technical excellence
+- Create products that deliver measurable impact
 
-* LinkedIn: www.linkedin.com/in/aayushi-pandey-b799a522a
-* Portfolio: 
+---
 
-⸻
+## Current Focus
+
+- Advanced Full-Stack Development
+- Generative AI & LLM Applications
+- System Design & Scalable Architectures
+- Product-Focused Software Engineering
+
+---
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/aayushi-pandey-b799a522a
+
+Portfolio: Coming Soon
