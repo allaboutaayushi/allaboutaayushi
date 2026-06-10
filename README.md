@@ -64,4 +64,4 @@ Git • CI/CD • Data Structures & Algorithms • Object-Oriented Programming �
 
 LinkedIn: www.linkedin.com/in/aayushi-pandey-b799a522a
 
-Portfolio: Coming Soon
+Portfolio: https://dreamy-sfogliatella-1e1658.netlify.app 
